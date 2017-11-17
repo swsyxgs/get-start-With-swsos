@@ -1,5 +1,7 @@
 sws(mode="quicktxt"){
 <txt sype="textbox">
- 
+ <area>
+ swsos help file
+ <area>
 </txt>
 }
